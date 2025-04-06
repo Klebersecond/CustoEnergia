@@ -10,4 +10,4 @@ kWhm = double.Parse(Console.ReadLine()!);
 
 cm = h * kWhm * 0.62258;
 
-Console.Write($"{cm:C1}");
+Console.Write($"{cm:C2}");
